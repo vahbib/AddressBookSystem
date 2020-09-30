@@ -70,7 +70,7 @@ public static void main(String[] args) {
                 } 
 	        }
 	        else if(n==5) {
-	        	System.exit();
+	        	System.exit(0);
 	        }
 	        else {
 	        	System.out.println("PLease Enter a Valid Number.\nThank You!");
